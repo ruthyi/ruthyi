@@ -1,4 +1,5 @@
-# ¡Hola, soy Ruth! 👋
+ ![Perrito](https://media.giphy.com/media/yHTaqbJJTLiLtFIIei/giphy.gif)
+# ¡Hola, soy Ruth! 
 
 ¡Hola! Bienvenid@ a mi perfil de GitHub. Soy Ruth Yibeth Lizcano Prada, una desarrolladora web Full Stack apasionada por la tecnología, la innovación y comprometida con el aprendizaje autonomo.
 
