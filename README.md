@@ -40,5 +40,13 @@ Puedes encontrar algunos de los proyectos que he realizado en la universidad a c
 Además de mi perfil de GitHub, también puedes ver más de mi trabajo en mi portafolio en línea: <br> 
 <br>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://visionary-centaur-f47981.netlify.app/)
+##
+
+</p><br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ruthyi&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="ruthyi" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthyi&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" width="350" >
+ </p>
+ 
 ## 
                                                         ¡Gracias por visitar mi perfil de GitHub!
