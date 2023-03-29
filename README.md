@@ -41,4 +41,4 @@ Además de mi perfil de GitHub, también puedes ver más de mi trabajo en mi por
 <br>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://visionary-centaur-f47981.netlify.app/)
 ## 
-¡Gracias por visitar mi perfil de GitHub!
+                                                        ¡Gracias por visitar mi perfil de GitHub!
